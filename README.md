@@ -10,6 +10,7 @@
 3. **Fast Checking**: Quickly checks emails in your list.
 4. **Accurate Results**: Ensures precise verification.
 5. **Unlimited Checking**: There is not limit for checking by default. You can validate as much as you want.
+6. **Support Any Country Domain**: Validate any country domain email for example, .com , .jp , .uk etc.
 
 
 ## Contact
